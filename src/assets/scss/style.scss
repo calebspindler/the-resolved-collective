@@ -36,7 +36,7 @@
 		text-decoration: none;
 
 		&:hover {
-			color: #BF9277;
+			color: rgba(255, 255, 255, 0.8);
 		}
 	}
 
@@ -366,6 +366,22 @@ article img {
 		max-width: 768px;
 		margin: 0 auto;
 	}
+}
+
+// Buttons 
+.about-us-top {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.about-us-top-text,
+.about-us-top-img {
+	width: 50vw;
+}
+
+.about-us-top-text {
+	margin-right: 3em;
 }
 
 // Contact page
