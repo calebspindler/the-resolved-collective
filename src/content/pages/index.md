@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: the resolved collective
 tagline: wellness — lifestyle — community
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/yl-home-lifestyle-2019-41.jpg
 cta:
   ctaText: join the collective
   ctaLink: /about
