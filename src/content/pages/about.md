@@ -20,6 +20,8 @@ title: Get To Know Us!
 
 <div class="member">
 
+![Melanie Do](/assets/melanie-do-2019-08.jpg " ")
+
 **Melanie Do**
 **[@melaniedo.eo](https://www.instagram.com/melaniedo.eo/)**
 
@@ -32,6 +34,8 @@ I have my Masters Degree in Counseling and am currently teaching classes at my l
 </div>
 
 <div class="member">
+
+![Rachel Garcia](/assets/rachel-garcia-2019-3.jpg " ")
 
 **Rachel Garcia**
 **[@workout_withrachel](https://www.instagram.com/workout_withrachel/)**
