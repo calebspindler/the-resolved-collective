@@ -19,8 +19,11 @@ title: Get To Know Us!
 <div class="about-us-bottom">
 
 <div class="member">
+<div class="member-img">
 
 ![Melanie Do](/assets/melanie-do-2019-08.jpg " ")
+
+</div>
 
 **Melanie Do**
 **[@melaniedo.eo](https://www.instagram.com/melaniedo.eo/)**
@@ -34,8 +37,11 @@ I have my Masters Degree in Counseling and am currently teaching classes at my l
 </div>
 
 <div class="member">
+<div class="member-img">
 
 ![Rachel Garcia](/assets/rachel-garcia-2019-3.jpg " ")
+
+</div>
 
 **Rachel Garcia**
 **[@workout_withrachel](https://www.instagram.com/workout_withrachel/)**
@@ -49,6 +55,11 @@ Although I have a degree in Human Services and Counseling, I am now pursuing Per
 </div>
 
 <div class="member">
+<div class="member-img">
+
+![Luanne Hardin](/assets/luanne-headshots-2019-001.jpg " ")
+
+</div>
 
 **Luanne Hardin**
 **[@lively.living.with.luanne](https://www.instagram.com/lively.living.with.luanne/)**
@@ -59,6 +70,11 @@ My passion is to show others that true health is attainable by simple lifestyle 
 
 </div>
 <div class="member">
+<div class="member-img">
+
+![Julia Lee](/assets/julia-lee-2019-08.jpg " ")
+
+</div>
 
 **Julia Lee**
 **[@the.living.collective](https://www.instagram.com/the.living.collective/)**
@@ -71,6 +87,11 @@ I am so thankful for these little bottles and all they do for my family. My kids
 
 </div>
 <div class="member">
+<div class="member-img">
+
+![Kayla Spindler](/assets/kayla-2019-07.jpg " ")
+
+</div>
 
 **Kayla Spindler**
 **[@kayla.spindler](https://www.instagram.com/kayla.spindler/)**
@@ -81,7 +102,11 @@ I live in San Diego with my husband, Caleb and 3 year old, Theo. Most days you c
 
 </div>
 <div class="member">
+<div class="member-img">
 
+![Leah-Jo Turner](/assets/leah-2019-02.jpg " ")
+
+</div>
 
 **Leah-Jo Turner**
 **[@leahjoturner](https://www.instagram.com/leahjoturner/)**
