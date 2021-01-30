@@ -10,7 +10,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>© 2021 THE RESOLVED COLLECTIVE | SITE DESIGN BY <a target="_blank" href="https://www.calebspindler.com">SPINDLER CREATIVE</a></p>
+      <p>© 2021 THE RESOLVED COLLECTIVE | SITE DESIGN BY <a target="_blank" rel="noreferrer" href="https://www.calebspindler.com">SPINDLER CREATIVE</a></p>
     </div>
   </footer>
 )

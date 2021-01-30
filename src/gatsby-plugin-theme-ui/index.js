@@ -6,7 +6,7 @@ export default {
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
-    borderColor:"#540229",
+    borderColor:"#ccc",
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",

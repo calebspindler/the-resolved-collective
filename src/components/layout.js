@@ -47,8 +47,8 @@ const Layout = ({children, className, props}) => {
 
 export default Layout
 
-const layoutStyle = {
-  theme: {
-    display:["none", "none", "none", "block"],
-  }
-}
+// const layoutStyle = {
+//   theme: {
+//     display:["none", "none", "none", "block"],
+//   }
+// }

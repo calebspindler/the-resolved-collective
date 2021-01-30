@@ -107,6 +107,12 @@
 	margin: 0 auto;
 	max-width: 1240px;
 	padding: 0 20px;
+
+	h1 {
+		text-align: center;
+		font-size: 2.7rem;
+		font-weight: normal;
+	}
 }
 
 .site-logo {
@@ -130,6 +136,8 @@
 .home-banner {
 	padding: 60px 0;
 	align-items: center;
+	text-align: center;
+	height: 85vh;
 
 	.title {
 		font-size: 5rem;
@@ -142,7 +150,6 @@
 		font-size: 20px;
 		line-height: 1.4;
 		margin-bottom: 30px;
-
 	}
 
 	.featured-image {
@@ -170,7 +177,8 @@
 	font-size: 35px;
 	display: flex;
 	gap: 16px;
-	margin-top: 80px;
+	margin-top: 60px;
+	justify-content: center;
 
 	@media (max-width: $breakpoint-md) {
 		margin-top: 40px;
@@ -183,6 +191,32 @@
 	}
 
 	padding-bottom: 100px;
+}
+
+.home-quote {
+	background-image: url("https://res.cloudinary.com/khadophoto/image/upload/v1554672561/Elements/background_tessaj.png");
+	position: absolute;
+	left: 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: #F7F5F3;
+	height: 15rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 25rem;
+
+	p {
+		font-size: 1.5rem;
+		width: 90%;
+		margin: auto;
+		text-align: center;
+	}
+}
+
+.home-about {
+	padding-top: 450px;
 }
 
 .post-card {
@@ -414,7 +448,7 @@ article img {
 		max-width: 100%;
 		margin: 8px 0 16px;
 		padding: 16px;
-		border-radius: 12px;
+		border-radius: 2px;
 		appearance: none;
 		font-size: 18px;
 		font-weight: 600;

@@ -55,7 +55,7 @@ const Contact = ({data}) => {
             <button className="button"            
             sx={{
               variant: 'links.button'
-            }} type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            }} type="submit">Submit</button>
           </p>
         </form>
       </div>
@@ -69,12 +69,12 @@ export default Contact
 const contactStyles = {
   contactPage:{
     "input":{
-      border:"6px solid",
+      border:"1px solid",
       borderColor: "inputBorder",
       bg: "inputBackground"
     },
     "textarea": {
-      border:"6px solid",
+      border:"1px solid",
       borderColor: "inputBorder",
       bg: "inputBackground"
     }
