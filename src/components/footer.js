@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
 const Footer = () => (
   <footer 
@@ -10,7 +10,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>© 2021 THE RESOLVED COLLECTIVE | SITE DESIGN BY <Link to="/">SPINDLER CREATIVE</Link></p>
+      <p>© 2021 THE RESOLVED COLLECTIVE | SITE DESIGN BY <a target="_blank" href="https://www.calebspindler.com">SPINDLER CREATIVE</a></p>
     </div>
   </footer>
 )

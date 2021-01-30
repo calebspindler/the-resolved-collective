@@ -20,7 +20,7 @@ const MenuItems = [
   },
   {
     path: "/contact",
-    title: "Contact"
+    title: "Let's Connect!"
   },
 ]
 

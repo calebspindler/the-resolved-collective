@@ -33,9 +33,9 @@ const Layout = ({children, className, props}) => {
       <Header>
         <Logo title={siteTitle} />
         <Navigation/>
-        <div sx={layoutStyle.theme}>
+        {/* <div className="change-color-btn" sx={layoutStyle.theme}>
           <Theme/>
-        </div>
+        </div> */}
       </Header>
       <main className={"container " + className}>
         {children}
