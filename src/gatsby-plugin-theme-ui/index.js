@@ -10,8 +10,8 @@ export default {
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",
-    socialIcons:"#a8959e",
-    socialIconsHover:"#E9DED8",
+    socialIcons:"#E9DED8",
+    socialIconsHover:"#BF9277",
     modes: {
       dark: {
         text: '#f5f5f5',

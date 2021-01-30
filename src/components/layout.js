@@ -9,7 +9,7 @@ import Navigation from "./navigation";
 
 import "../assets/scss/style.scss"
 import Footer from "./footer";
-import Theme from "../components/theme"
+// import Theme from "../components/theme"
 
 
 const query = graphql`
@@ -33,7 +33,7 @@ const Layout = ({children, className, props}) => {
       <Header>
         <Logo title={siteTitle} />
         <Navigation/>
-        {/* <div className="change-color-btn" sx={layoutStyle.theme}>
+        {/* <div sx={layoutStyle.theme}>
           <Theme/>
         </div> */}
       </Header>
