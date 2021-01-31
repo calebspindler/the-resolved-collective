@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 
 const Thanks = () => (
-  <Layout className="thanks-page">
+  <Layout className="thanks-page site-width">
     <SEO title="Thank you"/>
     <div className="wrapper" style={{
       textAlign: "center"

@@ -21,7 +21,7 @@ const JoinPage = ({ data }) => {
   const { frontmatter, html, excerpt } = markdownRemark
 
 	return (
-		<Layout className="page">
+		<Layout className="join-page site-width">
 			<SEO
 				title={frontmatter.title}
 				description={excerpt}

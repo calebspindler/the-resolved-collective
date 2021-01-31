@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 
 const NotFound = () => (
-  <Layout className="not-found-page">
+  <Layout className="not-found-page site-width">
     <SEO title="Page not found"/>
     <div className="wrapper" style={{
       textAlign: "center"

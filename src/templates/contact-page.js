@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 import { graphql } from "gatsby"
-import {RiSendPlane2Line} from "react-icons/ri";
+// import {RiSendPlane2Line} from "react-icons/ri";
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -29,7 +29,7 @@ const Contact = ({data}) => {
   const { frontmatter, html } = markdownRemark
 
   return  (
-    <Layout className="contact-page" sx={contactStyles.contactPage}>
+    <Layout className="contact-page site-width" sx={contactStyles.contactPage}>
       <SEO 
         title={frontmatter.title}
         description={frontmatter.title + " " + site.siteMetadata.title}

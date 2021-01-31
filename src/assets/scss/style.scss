@@ -105,14 +105,17 @@
 
 .container {
 	margin: 0 auto;
-	max-width: 1240px;
-	padding: 0 20px;
 
 	h1 {
-		text-align: center;
 		font-size: 2.7rem;
 		font-weight: normal;
 	}
+}
+
+.site-width {
+	max-width: 1240px;
+	margin: auto;
+	padding: 0px 20px;
 }
 
 .site-logo {
@@ -134,9 +137,7 @@
 }
 
 .home-banner {
-	padding: 60px 0;
 	align-items: center;
-	text-align: center;
 	height: 85vh;
 
 	.title {
@@ -178,7 +179,6 @@
 	display: flex;
 	gap: 16px;
 	margin-top: 60px;
-	justify-content: center;
 
 	@media (max-width: $breakpoint-md) {
 		margin-top: 40px;
@@ -189,34 +189,79 @@
 	.grids {
 		padding-bottom: 30px;
 	}
-
-	padding-bottom: 100px;
 }
 
 .home-quote {
 	background-image: url("https://res.cloudinary.com/khadophoto/image/upload/v1554672561/Elements/background_tessaj.png");
-	position: absolute;
-	left: 0px;
+	// position: absolute;
+	// left: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-color: #F7F5F3;
-	height: 15rem;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 25rem;
+	width: 100%;
 
 	p {
 		font-size: 1.5rem;
 		width: 90%;
 		margin: auto;
 		text-align: center;
+		max-width: 1240px;
+		padding: 0px 20px;
 	}
 }
 
-.home-about {
-	padding-top: 450px;
+.home-recent-posts {
+	background-color: #F7F5F3;
+}
+
+.home-about,
+.home-recent-posts .site-width {
+	display: flex;
+	padding-top: 8rem;
+	padding-bottom: 5rem;
+}
+
+.home-about-text {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.home-about-img img {
+	width: 100%;
+}
+
+.home-about-img,
+.home-posts-grid {
+	width: 70%;
+}
+
+.home-about-text,
+.home-posts-title {
+	width: 30%;
+}
+
+.home-posts-title {
+	padding-right: 20px;
+}
+
+.home-about-text .button {
+	width: 200px;
+}
+
+.home-posts h2 {
+	font-size: 2.7rem;
+	font-weight: normal;
+	margin: 0px;
+}
+
+.home-posts .button {
+	margin-top: 10px;
 }
 
 .post-card {
