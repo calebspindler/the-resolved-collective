@@ -18,7 +18,7 @@ title: Get To Know Us!
 
 <div class="about-us-bottom">
 
-<div class="member">
+<div class="member member-odd">
 <div class="member-img">
 
 ![Melanie Do](/assets/melanie-do-2019-08.jpg " ")
@@ -54,7 +54,7 @@ Although I have a degree in Human Services and Counseling, I am now pursuing Per
 
 </div>
 
-<div class="member">
+<div class="member member-odd">
 <div class="member-img">
 
 ![Luanne Hardin](/assets/luanne-headshots-2019-001.jpg " ")
@@ -86,7 +86,7 @@ I was raised in Norman, Oklahoma and attended Baylor University in Texas. I now 
 I am so thankful for these little bottles and all they do for my family. My kids haven’t been to the doctor aside from well visits (and the occasional injury or asthma attack) since starting to use oils over three years ago and my youngest two have never been on antibiotics or prescriptions of any kind. Sharing this life of wellness that comes from these golden drops brings me great joy and it’s an honor to walk this path with you.
 
 </div>
-<div class="member">
+<div class="member member-odd">
 <div class="member-img">
 
 ![Kayla Spindler](/assets/kayla-2019-07.jpg " ")
