@@ -337,6 +337,154 @@
 	}
 }
 
+.join-page {
+	h1 {
+		font-size: 5rem;
+		text-align: center;
+	}
+
+	p,
+	li {
+		font-size: 1.2rem;
+	}
+
+	li,
+	h3 {
+		line-height: 1.5;
+	}
+
+	img {
+		width: 100%;
+	}
+
+	.join-page-sec1,
+	.join-page-sec2 .join-page-sec-background,
+	.join-page-sec4,
+	.join-page-sec5 .join-page-sec-background,
+	.join-page-sec7,
+	.join-page-sec10 {
+		display: flex;
+		align-items: center;
+	}
+
+	.join-page-sec1,
+	.join-page-sec4 {
+		padding-bottom: 5rem;
+	}
+
+	.join-page-sec6 {
+		padding-top: 5rem;
+	}
+
+	.join-page-sec3,
+	.join-page-sec7,
+	.join-page-sec10 {
+		padding-top: 5rem;
+		padding-bottom: 5rem;
+	}
+
+	.join-page-sec2,
+	.join-page-sec5,
+	.join-page-sec9 {
+		background-color: #F7F5F3;
+		padding-top: 5rem;
+		padding-bottom: 5rem;
+	}
+
+	.join-page-sec3 h2,
+	.join-page-sec8 h2 {
+		font-size: 3rem;
+		font-weight: normal;
+		text-align: center;
+	}
+
+	.join-page-members {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+
+	.join-member-container {
+		width: 30%;
+		margin-bottom: 40px;
+	}
+
+	.name-button-text {
+		transition: .5s ease;
+		opacity: 0;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		text-align: center;
+	}
+
+	.join-page-members a:hover img {
+		opacity: 0.3;
+	}
+
+	.join-page-members img {
+		opacity: 1;
+		display: block;
+		width: 100%;
+		height: auto;
+		transition: .5s ease;
+		backface-visibility: hidden;
+	}
+
+	.name-button-text {
+		background-color: #E9DED8;
+		color: #404040;
+		font-size: 1rem;
+		padding: 16px 32px;
+		font-size: 2rem;
+		opacity: 0;
+	}
+
+	.join-page-members a:hover .name-button-text {
+		opacity: 1;
+	}
+
+	.join-member-container {
+		position: relative;
+	}
+
+	.join-page-sec1-img,
+	.join-page-sec2-img,
+	.join-page-sec4-img,
+	.join-page-sec5-img,
+	.join-page-sec7-img,
+	.join-page-sec10-img {
+		width: 50vw;
+	}
+
+	.join-page-sec1-text,
+	.join-page-sec2-text,
+	.join-page-sec4-text,
+	.join-page-sec5-text,
+	.join-page-sec7-text,
+	.join-page-sec10-text {
+		width: 50vw;
+	}
+
+	.join-page-sec1-text,
+	.join-page-sec5-text,
+	.join-page-sec7-text {
+		padding-left: 3rem;
+	}
+
+	.join-page-sec2-text,
+	.join-page-sec4-text {
+		padding-right: 3rem;
+	}
+
+	.join-page-sec8 h2 a {
+		text-decoration: underline;
+	}
+}
+
 .post-card {
 	padding: 16px;
 	border: 1px solid rgba(0, 0, 0, 0.08);
