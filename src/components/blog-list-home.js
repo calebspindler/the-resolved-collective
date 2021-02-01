@@ -12,7 +12,7 @@ const PostMaker = ({ data }) => (
     </div>
     <div className="home-about site-width">
       <div className="home-about-img">
-        <img alt="Members of the The Resolved Collective sitting on a couch beside a table with essential oils on top of another image of essential oils and a diffuser." src="https://res.cloudinary.com/khadophoto/image/upload/c_scale,w_800/v1554151757/RC-%20About%20Us/rc-website-about-3.png" data-pagespeed-url-hash="3383114635" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+        <img alt="Members of the The Resolved Collective sitting on a couch beside a table with essential oils and a diffuser." src="https://res.cloudinary.com/khadophoto/image/upload/c_scale,w_800/v1554151757/RC-%20About%20Us/rc-website-about-3.png" />
       </div>
       <div className="home-about-text">
         <h2>About Us</h2>
