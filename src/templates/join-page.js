@@ -37,7 +37,9 @@ const JoinPage = ({ data }) => {
 
 			<div className="join-page-content">
 				<div className="join-page-sec1">
-					<div className="join-page-sec1-img"></div>
+					<div className="join-page-sec1-img">
+						<img alt="Cabinet filled with essential oils" src="./assets/yl-home-lifestyle-2019-35.jpg" />
+					</div>
 					<div className="join-page-sec1-text">
 						<p>We have a growing a community. When you join as a MEMBER, you will receive a
 						welcome package with resources to start your journey. You will also receive
@@ -54,7 +56,9 @@ const JoinPage = ({ data }) => {
 						<p>This does NOT mean you will ever have to sell anything. It just means as a WHOLESALE member you get 24% off prices!</p>
 						<p>Nevertheless, we stand behind Young Living’s products, so both options are great.</p>
 					</div>
-					<div className="join-page-sec2-img"></div>
+					<div className="join-page-sec2-img">
+						<img alt="Essential oils and a diffuser" src="./assets/yl-2019-starter-kit-49.jpg" />
+					</div>
 				</div>
 				<div className="join-page-sec3">
 					<h2>Choose What Works Best For You!</h2>
@@ -70,11 +74,15 @@ const JoinPage = ({ data }) => {
 							<li>You’ll also receive a member number to share with friends; if they order using your member number, YL thanks you for sharing by sending you compensation for the referral!</li>
 						</ul>
 					</div>
-					<div className="join-page-sec4-img"></div>
+					<div className="join-page-sec4-img">
+						<img alt="Essential oils and Young Living magazines" src="./assets/yl-2019-starter-kit-3.jpg" />
+					</div>
 				</div>
 
 				<div className="join-page-sec5">
-					<div className="join-page-sec4-img"></div>
+					<div className="join-page-sec4-img">
+						<img alt="Young Living Thieves Cleaning Products" src="./assets/thieves-cleaning-products-2019-18.jpg" />
+					</div>
 					<div className="join-page-sec5-text">
 						<h3>OPTION TWO | Retail Customer</h3>
 						<ul>
@@ -89,7 +97,9 @@ const JoinPage = ({ data }) => {
 
 
 				<div className="join-page-sec7">
-					<div className="join-page-sec10-img"></div>
+					<div className="join-page-sec10-img">
+						<img alt="Melanie and Julia looking at bottles of essential oils" src="./assets/rc-website-16.jpg" />
+					</div>
 					<div className="join-page-sec10-text">
 						<p><strong>Consider Choosing an Essential Rewards Kit:</strong> When checking out with your starter kit, you can select “no thank you” for the ER or choose a package and ship them together for extra savings. This is like any other Rewards Program for frequent buyers. Chances are, you’ll be coming back for more, and you won’t regret taking advantage of savings now. You can also customize your own, which we recommend! For every purchase you get 10-20% back in points each month, which you can redeem to purchase products (shampoo, vitamins, toothpaste, cleaning supplies, oils, makeup and more). <strong>Remember, you can cancel anytime</strong>.</p>
 						<h4>To sign up for Essential Rewards:</h4>
@@ -103,6 +113,12 @@ const JoinPage = ({ data }) => {
 				</div>
 				<div className="join-page-sec8">
 					<h2>Select your team member below, or just click here.</h2>
+					<img alt="Melanie Do" src="./assets/melanie-do-2019-08.png" />
+					<img alt="Rachel Garcia" src="./assets/rachel-garcia-2019-3.png" />
+					<img alt="Luanne Hardin" src="./assets/luanne-headshots-2019-001.png" />
+					<img alt="Julia Lee" src="./assets/julia-lee-2019-08.png" />
+					<img alt="Kayla Spindler" src="./assets/kayla-2019-07.png" />
+					<img alt="Leah-Jo Turner" src="./assets/leah-2019-02.png" />
 				</div>
 				<div className="join-page-sec9">
 					<h2>Join and Resolve Today!</h2>
@@ -113,7 +129,9 @@ const JoinPage = ({ data }) => {
 						<p>Our community believes in the power behind essential oils, and Young Living Essential Oils provides the greatest quality of essential oils on the planet. Learn more about their Seed to Seal guarantee HERE.</p>
 						<p>For questions, email us at hello@theresolvedcollective.com.</p>
 				</div>
-					<div className="join-page-sec10-img"></div>
+				<div className="join-page-sec10-img">
+					<img alt="Succulent with red flower" src="./assets/yl-home-lifestyle-2019-30.jpg" />
+				</div>
 				</div>
 			</div>
 		</Layout>
