@@ -226,7 +226,6 @@
 
 	.featured-image {
 		border-radius: 12px;
-		max-width: none;
 	}
 
 	.tagline {
@@ -624,6 +623,7 @@ article img {
 .blog-post {
 	.featured-image {
 		border-radius: 12px;
+		max-width: none !important;
 	}
 }
 
