@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to Support Your Workout Routines with Essential Oils
-slug: support-your-workout-routines-essential-oils
+slug: /support-your-workout-routines-essential-oils
 date: 2019-03-04 16:52
 description: Here's a quick guide to supporting your workout routines with essential oils.
 featuredImage: /assets/rachel-garcia-workout-1.jpg
