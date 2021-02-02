@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "The Resolved Collective",
-    "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "titleTemplate": "the-resolved-collective",
+    "description": "The Resolved Collective is a group of people who have been brought together by a motivation to live more holistically, particularly through the use of essential oils.",
     "siteUrl": "https://theresolvedcollective.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/beautiful-botanical-bright-912413.png",
+    "iconimage": "/assets/beautiful-botanical-bright-912413.png",
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-139710950-1 "
 }
