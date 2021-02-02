@@ -117,20 +117,20 @@
 	}
 }
 
-.site-width,
-.about-us-top,
-.member-container {
+.site-width {
 	max-width: 1240px;
 	margin: auto;
 	padding: 0px 20px;
 }
 
-.about-page h1 {
-	max-width: 1240px;
-	padding: 0px 20px;
-	text-align: center;
-	margin-bottom: 0px;
-	margin-top: 0px;
+.about-page {
+	h1 {
+		max-width: 1240px;
+		padding: 0px 20px;
+		text-align: center;
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
 }
 
 .member-odd {
@@ -384,15 +384,25 @@
 	}
 
 	.join-page-sec2,
-	.join-page-sec5,
-	.join-page-sec9 {
+	.join-page-sec5 {
 		background-color: #F7F5F3;
 		padding-top: 5rem;
 		padding-bottom: 5rem;
 	}
 
+	.join-page-sec9 {
+		background-color: #F7F5F3;
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+	}
+
+	.join-page-sec8 {
+		padding-bottom: 3rem;
+	}
+
 	.join-page-sec3 h2,
-	.join-page-sec8 h2 {
+	.join-page-sec8 h2,
+	.join-page-sec9 h2 {
 		font-size: 3rem;
 		font-weight: normal;
 		text-align: center;
@@ -403,6 +413,7 @@
 		flex-direction: row;
 		flex-wrap: wrap;
 		justify-content: space-between;
+		padding-top: 2rem;
 	}
 
 	.join-member-container {
@@ -476,11 +487,13 @@
 	}
 
 	.join-page-sec2-text,
-	.join-page-sec4-text {
+	.join-page-sec4-text,
+	.join-page-sec10-text {
 		padding-right: 3rem;
 	}
 
-	.join-page-sec8 h2 a {
+	.join-page-sec8 h2 a,
+	p a {
 		text-decoration: underline;
 	}
 }

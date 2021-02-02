@@ -43,7 +43,7 @@ const JoinPage = ({ data }) => {
 						group and online community. There is NO PRESSURE to sell. You can join simply
 						to enjoy your oils and learn from this beautiful community.</p>
 						<p>Starting is simple, just enroll as a MEMBER by clicking on the team member
-						that has been sharing about oils with you below this page or just click HERE.</p>
+						that has been sharing about oils with you below this page or just click <a target="_blank" rel="noreferrer" href="https://yl.pe/4htp">HERE</a>.</p>
 					</div>
 				</div>
 				<div className="join-page-sec2">
@@ -166,8 +166,8 @@ const JoinPage = ({ data }) => {
 
 				<div className="join-page-sec10 site-width">
 					<div className="join-page-sec10-text">
-						<p>Our community believes in the power behind essential oils, and Young Living Essential Oils provides the greatest quality of essential oils on the planet. Learn more about their Seed to Seal guarantee HERE.</p>
-						<p>For questions, email us at hello@theresolvedcollective.com.</p>
+						<p>Our community believes in the power behind essential oils, and <a target="_blank" rel="noreferrer" href="https://www.youngliving.com/en_US">Young Living Essential Oils</a> provides the greatest quality of essential oils on the planet. Learn more about their Seed to Seal guarantee <a target="_blank" rel="noreferrer" href="https://www.youngliving.com/en_US/discover/seed-to-seal">HERE</a>.</p>
+						<p>For questions, email us at <a href="mailto:hello@theresolvedcollective.com">hello@theresolvedcollective.com</a>.</p>
 				</div>
 				<div className="join-page-sec10-img">
 					<img alt="Succulent with red flower" src="./assets/yl-home-lifestyle-2019-30.jpg" />

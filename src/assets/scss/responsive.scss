@@ -105,4 +105,85 @@
       text-align: center;
     }
   }
+
+  .join-page {
+
+    h1 {
+      font-size: 3rem;
+    }
+
+    .join-page-sec1,
+    .join-page-sec2 .join-page-sec-background,
+    .join-page-sec4,
+    .join-page-sec5 .join-page-sec-background,
+    .join-page-sec7,
+    .join-page-sec10 {
+      flex-direction: column;
+    }
+
+    .join-member-container {
+      width: 100%;
+    }
+
+    .join-page-sec1-img,
+    .join-page-sec2-img,
+    .join-page-sec4-img,
+    .join-page-sec5-img,
+    .join-page-sec7-img,
+    .join-page-sec10-img,
+    .join-page-sec1-text,
+    .join-page-sec2-text,
+    .join-page-sec4-text,
+    .join-page-sec5-text,
+    .join-page-sec7-text,
+    .join-page-sec10-text {
+      width: 100%;
+    }
+
+    .join-page-sec1-text,
+    .join-page-sec5-text,
+    .join-page-sec7-text {
+      padding-left: 0px;
+    }
+
+    .join-page-sec2-text,
+    .join-page-sec4-text,
+    .join-page-sec10-text {
+      padding-right: 0px;
+    }
+
+    .name-button-text {
+      opacity: 1;
+    }
+
+    .name-button-text {
+      top: 90%;
+    }
+
+    .join-page-sec1 {
+      padding-bottom: 2rem;
+    }
+
+    .join-page-sec2,
+    .join-page-sec4 {
+      padding-top: 2rem;
+      padding-bottom: 4rem;
+    }
+
+    .join-page-sec3 h2,
+    .join-page-sec8 h2,
+    .join-page-sec9 h2 {
+      font-size: 2rem;
+    }
+
+    .join-page-sec3 {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+
+    .join-page-sec5 {
+      padding-top: 4rem;
+      padding-bottom: 2rem;
+    }
+  }
 }
