@@ -82,13 +82,10 @@
       width: 100%;
     }
 
-    .member-img {
-      padding: 0 20px;
-    }
-
     .member .member-container .member-text,
-    .member-odd .member-container .member-text {
-      padding: 0px 20px
+    .member-odd .member-container .member-text,
+    .member-img {
+      padding: 0px;
     }
   }
 
@@ -184,6 +181,42 @@
     .join-page-sec5 {
       padding-top: 4rem;
       padding-bottom: 2rem;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-md) {
+  .site-navigation li:last-of-type a {
+    background: #E9DED8;
+  }
+
+  .about-page {
+    .about-us-top {
+      flex-direction: column;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-lg) {
+
+  .site-navigation li:last-of-type a {
+    background: #E9DED8;
+  }
+
+  .about-page {
+    .about-us-top {
+      flex-direction: column;
+    }
+  }
+
+  .join-page {
+    .join-page-sec1 {
+      flex-direction: column;
+    }
+
+    .join-page-sec1-text {
+      width: 100%;
+      padding-left: 0px;
     }
   }
 }

@@ -57,7 +57,7 @@ const AboutPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="member">
-					<div className="member-container">
+					<div className="member-container site-width">
 						<div className="member-img">
 							<img alt="Rachel Garcia" src="./assets/rachel-garcia-2019-3.jpg" />
 						</div>
@@ -71,7 +71,7 @@ const AboutPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="member member-odd">
-					<div className="member-container">
+					<div className="member-container site-width">
 						<div className="member-img">
 							<img alt="Luanne Hardin" src="./assets/luanne-headshots-2019-001.jpg" />
 						</div>
@@ -84,7 +84,7 @@ const AboutPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="member">
-					<div className="member-container">
+					<div className="member-container site-width">
 						<div className="member-img">
 							<img alt="Julia Lee" src="./assets/julia-lee-2019-08.jpg" />
 						</div>
@@ -98,7 +98,7 @@ const AboutPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="member member-odd">
-					<div className="member-container">
+					<div className="member-container site-width">
 						<div className="member-img">
 							<img alt="Kayla Spindler" src="./assets/kayla-2019-07.jpg" />
 						</div>
@@ -111,7 +111,7 @@ const AboutPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="member">
-					<div className="member-container">
+					<div className="member-container site-width">
 						<div className="member-img">
 							<img alt="Leah-Jo Turner" src="./assets/leah-2019-02.jpg" />
 						</div>
