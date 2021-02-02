@@ -112,45 +112,45 @@ const JoinPage = ({ data }) => {
 					</div>
 				</div>
 				<div className="join-page-sec8 site-width">
-					<h2>Select your team member below, or just click <a target="_blank" href="yl.pe/4htp">here</a>.</h2>
+					<h2>Select your team member below, or just click <a target="_blank" rel="noreferrer" href="yl.pe/4htp">here</a>.</h2>
 					<div className="join-page-members">
 						<div className="join-member-container">
-							<a target="_blank" href="https://yl.pe/4htp"><img alt="Melanie Do" src="./assets/melanie-do-2019-08.png" />
+							<a target="_blank" rel="noreferrer" href="https://yl.pe/4htp"><img alt="Melanie Do" src="./assets/melanie-do-2019-08.png" />
 								<div class="name-button">
 									<div class="name-button-text">Melanie Do</div>
 								</div>
 							</a>
 						</div>
 						<div className="join-member-container">
-							<a target="_blank" href="https://yl.pe/7tfw"><img alt="Rachel Garcia" src="./assets/rachel-garcia-2019-3.png" />
+							<a target="_blank" rel="noreferrer" href="https://yl.pe/7tfw"><img alt="Rachel Garcia" src="./assets/rachel-garcia-2019-3.png" />
 								<div class="name-button">
 									<div class="name-button-text">Rachel Garcia</div>
 								</div>
 							</a>
 						</div>
 						<div className="join-member-container">
-							<a target="_blank" href="https://www.myyl.com/livelyliving#enroll"><img alt="Luanne Hardin" src="./assets/luanne-headshots-2019-001.png" />
+							<a target="_blank" rel="noreferrer" href="https://www.myyl.com/livelyliving#enroll"><img alt="Luanne Hardin" src="./assets/luanne-headshots-2019-001.png" />
 								<div class="name-button">
 									<div class="name-button-text">Luanne Hardin</div>
 								</div>
 							</a>
 						</div>
 						<div className="join-member-container">
-							<a target="_blank" href="https://yl.pe/999x"><img alt="Julia Lee" src="./assets/julia-lee-2019-08.png" />
+							<a target="_blank" rel="noreferrer" href="https://yl.pe/999x"><img alt="Julia Lee" src="./assets/julia-lee-2019-08.png" />
 								<div class="name-button">
 									<div class="name-button-text">Julia Lee</div>
 								</div>
 							</a>
 						</div>
 						<div className="join-member-container">
-							<a target="_blank" href="https://yl.pe/bzp9"><img alt="Kayla Spindler" src="./assets/kayla-2019-07.png" />
+							<a target="_blank" rel="noreferrer" href="https://yl.pe/bzp9"><img alt="Kayla Spindler" src="./assets/kayla-2019-07.png" />
 								<div class="name-button">
 									<div class="name-button-text">Kayla Spindler</div>
 								</div>
 							</a>
 						</div>
 						<div className="join-member-container">
-							<a target="_blank" href="https://yl.pe/bzpb"><img alt="Leah-Jo Turner" src="./assets/leah-2019-02.png" />
+							<a target="_blank" rel="noreferrer" href="https://yl.pe/bzpb"><img alt="Leah-Jo Turner" src="./assets/leah-2019-02.png" />
 								<div class="name-button">
 									<div class="name-button-text">Leah-Jo Turner</div>
 								</div>
