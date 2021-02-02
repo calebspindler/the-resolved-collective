@@ -8,4 +8,4 @@ cta:
   ctaText: join the collective
   ctaLink: /join
 ---
-wellness — lifestyle — community
+Not being used.
